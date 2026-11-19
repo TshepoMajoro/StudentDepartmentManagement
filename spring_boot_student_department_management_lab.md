@@ -1050,7 +1050,7 @@ Use these questions during the final five minutes:
 1.  Why should we use DTOs instead of returning entities directly?
 2.  What is the difference between `@OneToMany` and `@ManyToOne`?
 3.  Why do we put business logic inside the service layer?
-4.  Why does `StudentServiceImpl` need both repositories?
+4.  Why does `StudentServiceImplementation` need both repositories?
 5.  What happens if we register a student with a department ID that does
     not exist?
 6.  Why do we use `@RestControllerAdvice`?
