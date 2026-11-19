@@ -5,6 +5,7 @@ public record StudentResponse(
         String firstName,
         String lastName,
         String email,
-        Long departmentId
+        Long departmentId,
+        String departmentName
 ) {
 }
